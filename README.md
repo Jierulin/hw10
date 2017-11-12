@@ -1,4 +1,4 @@
-# Your Project Title Here
+# Interactive bouncing 3D wall pattern
 Interactive bouncing 3D wall pattern that is activated while people walk by it.
 
 ## Summary
