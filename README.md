@@ -35,8 +35,11 @@ Camera:
 
 ## Challenges
 -make the pulling movement right 
+
 -Connecting the string can be time consuming
+
 -Time management- it’s a big project and the time is very limited
+
 
 ## Timeline
 - Week 1: Write proposal, make 1st version of the pattern + cardboard prototype
